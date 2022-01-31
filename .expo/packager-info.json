@@ -1,0 +1,8 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://pm-7x4.anonymous.movies.exp.direct",
+  "packagerNgrokUrl": "https://packager.pm-7x4.anonymous.movies.exp.direct",
+  "ngrokPid": 50361
+}

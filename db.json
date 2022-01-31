@@ -1,0 +1,245 @@
+{
+  "favorites": [
+    {
+      "detail": {
+        "adult": false,
+        "backdrop_path": "/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
+        "belongs_to_collection": {
+          "id": 468552,
+          "name": "Wonder Woman Collection",
+          "poster_path": "/8AQRfTuTHeFTddZN4IUAqprN8Od.jpg",
+          "backdrop_path": "/n9KlvCOBFDmSyw3BgNrkUkxMFva.jpg"
+        },
+        "budget": 200000000,
+        "genres": [
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          }
+        ],
+        "homepage": "https://www.warnerbros.com/movies/wonder-woman-1984",
+        "id": 464052,
+        "imdb_id": "tt7126948",
+        "original_language": "en",
+        "original_title": "Wonder Woman 1984",
+        "overview": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+        "popularity": 2478.265,
+        "poster_path": "/lNVHB85FUDZqLzvug3k6FA07RIr.jpg",
+        "production_companies": [
+          {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 174,
+            "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 114152,
+            "logo_path": null,
+            "name": "The Stone Quarry",
+            "origin_country": "US"
+          },
+          {
+            "id": 128064,
+            "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+            "name": "DC Films",
+            "origin_country": "US"
+          },
+          {
+            "id": 507,
+            "logo_path": "/z7H707qUWigbjHnJDMfj6QITEpb.png",
+            "name": "Atlas Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2020-12-16",
+        "revenue": 85000000,
+        "runtime": 152,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "A new era of wonder begins.",
+        "title": "Wonder Woman 1984",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 1181
+      },
+      "id": 1
+    },
+    {
+      "detail": {
+        "adult": false,
+        "backdrop_path": "/cjaOSjsjV6cl3uXdJqimktT880L.jpg",
+        "belongs_to_collection": {
+          "id": 464577,
+          "name": "The Croods Collection",
+          "poster_path": "/ngKY2KzudNpC7j8a0OWjJRY0tHv.jpg",
+          "backdrop_path": "/8MjzBahFKCuQbwytpPPds7qboQa.jpg"
+        },
+        "budget": 65000000,
+        "genres": [
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 10751,
+            "name": "Family"
+          },
+          {
+            "id": 16,
+            "name": "Animation"
+          }
+        ],
+        "homepage": "https://www.dreamworks.com/movies/the-croods-2",
+        "id": 529203,
+        "imdb_id": "tt2850386",
+        "original_language": "en",
+        "original_title": "The Croods: A New Age",
+        "overview": "After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.  Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+        "popularity": 3020.576,
+        "poster_path": "/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg",
+        "production_companies": [
+          {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 521,
+            "logo_path": "/kP7t6RwGz2AvvTkvnI1uteEwHet.png",
+            "name": "DreamWorks Animation",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2020-11-25",
+        "revenue": 35930000,
+        "runtime": 95,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "The future ain't what it used to be.",
+        "title": "The Croods: A New Age",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 709
+      },
+      "id": 2
+    },
+    {
+      "detail": {
+        "adult": false,
+        "backdrop_path": "/kf456ZqeC45XTvo6W9pW5clYKfQ.jpg",
+        "belongs_to_collection": null,
+        "budget": 150000000,
+        "genres": [
+          {
+            "id": 16,
+            "name": "Animation"
+          },
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 10402,
+            "name": "Music"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          }
+        ],
+        "homepage": "https://movies.disney.com/soul",
+        "id": 508442,
+        "imdb_id": "tt2948372",
+        "original_language": "en",
+        "original_title": "Soul",
+        "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+        "popularity": 878.37,
+        "poster_path": "/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+        "production_companies": [
+          {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 3,
+            "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+            "name": "Pixar",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2020-12-25",
+        "revenue": 0,
+        "runtime": 102,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Is all this living really worth dying for?",
+        "title": "Soul",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 1171
+      },
+      "id": 3
+    }
+  ]
+}
