@@ -11,7 +11,7 @@ export const setLoading = () => {
 export const getPopular = () => async dispatch => {
     try {
         setLoading();
-        const response = await fetch('https://api.themoviedb.org/3/movie/popular?api_key=661290a964f218a732bf3fd1ccf856aa&language=en-US&page=1');
+        const response = await fetch('https://api.themoviedb.org/3/movie/popular?api_key=[YOUR_API_KEY_HERE]&language=en-US&page=1');
         const data = await response.json();
         const results = data.results;
         dispatch({
@@ -30,7 +30,7 @@ export const getPopular = () => async dispatch => {
 export const getTrending = () => async dispatch => {
     try {
         setLoading();
-        const response = await fetch("https://api.themoviedb.org/3/trending/movie/day?api_key=661290a964f218a732bf3fd1ccf856aa&language=en-US&page=1");
+        const response = await fetch("https://api.themoviedb.org/3/trending/movie/day?api_key=[YOUR_API_KEY_HERE]&language=en-US&page=1");
         const data = await response.json();
         const results = data.results;
         dispatch({
@@ -49,7 +49,7 @@ export const getTrending = () => async dispatch => {
 export const getTopRated = () => async dispatch => {
     try {
         setLoading();
-        const response = await fetch("https://api.themoviedb.org/3/movie/top_rated?api_key=661290a964f218a732bf3fd1ccf856aa&language=en-US&page=1");
+        const response = await fetch("https://api.themoviedb.org/3/movie/top_rated?api_key=[YOUR_API_KEY_HERE]&language=en-US&page=1");
         const data = await response.json();
         const results = data.results;
         dispatch({
@@ -68,7 +68,7 @@ export const getTopRated = () => async dispatch => {
 export const getUpcoming = () => async dispatch => {
     try {
         setLoading();
-        const response = await fetch("https://api.themoviedb.org/3/movie/upcoming?api_key=661290a964f218a732bf3fd1ccf856aa&language=en-US&page=1");
+        const response = await fetch("https://api.themoviedb.org/3/movie/upcoming?api_key=[YOUR_API_KEY_HERE]&language=en-US&page=1");
         const data = await response.json();
         const results = data.results;
         dispatch({
@@ -87,7 +87,7 @@ export const getUpcoming = () => async dispatch => {
 export const getDetails = (id) => async dispatch => {
     try {
         setLoading();
-        const response = await fetch(`https://api.themoviedb.org/3/movie/${id}?api_key=661290a964f218a732bf3fd1ccf856aa&language=en-US`);
+        const response = await fetch(`https://api.themoviedb.org/3/movie/${id}?api_key=[YOUR_API_KEY_HERE]&language=en-US`);
         const data = await response.json();
         dispatch({
             type: GET_DETAILS,
@@ -105,7 +105,7 @@ export const getDetails = (id) => async dispatch => {
 export const getSimilarMovies = (id) => async dispatch => {
     try {
         setLoading();
-        const response = await fetch(`https://api.themoviedb.org/3/movie/${id}/similar?api_key=661290a964f218a732bf3fd1ccf856aa&language=en-US&page=1`);
+        const response = await fetch(`https://api.themoviedb.org/3/movie/${id}/similar?api_key=[YOUR_API_KEY_HERE]&language=en-US&page=1`);
         const data = await response.json();
         const results = data.results;
         console.log(`The results are: ${results}`);
