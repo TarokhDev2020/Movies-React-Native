@@ -8,11 +8,6 @@ Search and explore for popular, trending and top rated movies and get more infor
 * Discover and search for the best movies
 * Add movies to your favorite (watch list) to see it later
 
-## Features
-* See the most popular, top rated and upcoming movies
-* Discover and search for the best movies
-* Add movies to your favorite (watch list) to see it later
-
 ## Screenshots
 
 <a href='Simulator Screen Shot - iPhone 11 - 2021-01-04 at 12 05 11' target='_blank'><img src='https://user-images.githubusercontent.com/72879576/153024255-f99b3d7e-fb3c-42ec-b1af-7df94b5f9a8c.png' border='0' alt='Movies-React-Native' width="250"/></a>
